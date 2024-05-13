@@ -1,0 +1,44 @@
+[
+  {
+    "id": "6640a81860fe21da2f8e4f05",
+    "picture": "https://img.freepik.com/free-photo/happy-business-man-standing-smiling-against-red-wall_155003-9367.jpg?t=st=1715513695~exp=1715517295~hmac=0485e50f24012adbf8132610425d99815d51268080401d1d0ec080d67a79d7e7&w=360",
+    "name": "Deloris David",
+    "review": "This laptop is amazing. Super fast (was immediately ~30% faster at a set of python tests), and I really appreciate the larger screen and improved speakers. The screen feels much, much bigger than the 13. That said, the 15 definitely *feels* more like a laptop. The 13 is small enough that it feels almost feels like a larger tablet device. The 15, while only a half-pound heavier, really does start to feel more like a laptop because of the increased size.",
+    "rating": 5
+  },
+  {
+    "id": "6640a8187ca90067df17c85d",
+    "picture": "https://img.freepik.com/free-photo/guy-plaid-shirt_158595-126.jpg?t=st=1715513745~exp=1715517345~hmac=7211d5691c01a1d20b0a58433db300ed6a7cb3073bf970ffc372d06695106109&w=740",
+    "name": "Mccall Tate",
+    "review": "The MacBook Air is an excellent choice for students who are pursuing their education, as it offers exceptional speed, top-notch quality, vibrant display, and a lightweight design. Opting to purchase it from Amazon presents a wonderful opportunity to take advantage of enticing discounts.",
+    "rating": 3
+  },
+  {
+    "id": "6640a8184bf3979bb636d173",
+    "picture": "https://img.freepik.com/free-photo/cheerful-indian-businessman-smiling-closeup-portrait-jobs-career-campaign_53876-129416.jpg?t=st=1715513768~exp=1715517368~hmac=0f22b8a3ef9ae9e27689eaaabf95a66c78b0857f6c09283433329b58f1efe5dc&w=996",
+    "name": "Taylor Peterson",
+    "review": "Great laptop. Super Fast. Long lived battery. Very thin. Very light. Exquisite display. Typically easy to use Mac OS. Just about Everything works as it should. Great quality. Exquisite engineering.",
+    "rating": 4
+  },
+  {
+    "id": "6640a818cea3d760d104982f",
+    "picture": "https://img.freepik.com/free-photo/young-bearded-man-black-shirt-looking-camera-displeased_141793-28316.jpg?t=st=1715513878~exp=1715517478~hmac=c47b7f6523130c753fede7056bea162a76ecfa2c603bb202c323c0e5f8cdf27f&w=996",
+    "name": "Collier Avery",
+    "review": "Great laptop. Super Fast. Long lived battery. Very thin. Very light. Exquisite display. Typically easy to use Mac OS. Just about Everything works as it should. Great quality. Exquisite engineering.",
+    "rating": 3
+  },
+  {
+    "id": "6640a8184378563c73821859",
+    "picture": "https://img.freepik.com/free-photo/smiling-happy-businessman-looking-camera_23-2148113005.jpg?t=st=1715513831~exp=1715517431~hmac=8fb59e2da9ad8580a3cc6304bc0d21e7476d10ca629ec7561013aa002fbec48b&w=996",
+    "name": "Spears Hyde",
+    "review": "This laptop is slim, ultra fast, great resolution, and with pleasing appearance. Makes my PC laptop look like a horse and buggy compared to a C8 Corvette. Great battery life.",
+    "rating": 4
+  },
+  {
+    "id": "6640a818d26daad6dcea90a3",
+    "picture": "https://img.freepik.com/free-photo/young-girl-with-short-hair-wearing-polo-shirt-looking-camera-with-smile-face_141793-46444.jpg?t=st=1715513854~exp=1715517454~hmac=5d5c2d42456bbcd33f8b1cbeeb2a8af2ee507a0e229946c7479cf9dceda6cda5&w=996",
+    "name": "Mays Hebert",
+    "review": "It's a good buying, I've been using since March and it woks well. I'm happy with my laptop.",
+    "rating": 4
+  }
+]
